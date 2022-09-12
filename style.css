@@ -533,12 +533,6 @@ color-picker-ul din chrome (inspect)
   justify-content: center;
 }
 
-.see-more {
-  position: absolute;
-  background-color: #fff;
-  font-size: 21px;
-}
-
 .home-about {
   margin-top: 80px;
 }
