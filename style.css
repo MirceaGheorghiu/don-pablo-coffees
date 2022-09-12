@@ -527,6 +527,18 @@ color-picker-ul din chrome (inspect)
   background-color: #a9a453;
 }
 
+.read-more-copy {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.see-more {
+  position: absolute;
+  background-color: #fff;
+  font-size: 21px;
+}
+
 .home-about {
   margin-top: 80px;
 }
